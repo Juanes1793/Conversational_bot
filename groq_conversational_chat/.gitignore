@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+VENV/
+.venv/
+.ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and local data
+*.log
+*.sqlite3
+*.csv
+*.json
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / editor configurations
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# API keys or secrets
+config.yaml
+config.json
+
+# PyTest cache
+.pytest_cache/
+
+# Model files and large datasets
+models/
+*.h5
+*.ckpt
+*.bin
+
+# Large language model files
+*.pth
+*.pt
+
+# Streamlit specific
+.streamlit/
+
+#data
+data/
+data
